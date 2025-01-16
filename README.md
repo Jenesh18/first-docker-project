@@ -17,7 +17,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/jenesh018/first-docker-project.git
+git clone https://github.com/jenesh18/first-docker-project.git
 cd first-docker-project
 Build the Docker image: Run the following command to build the Docker image from the Dockerfile:
 
