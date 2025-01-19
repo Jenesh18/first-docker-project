@@ -42,4 +42,4 @@ Docker: Tool for containerizing the application.
 Future Improvements
 Add more features to the Node.js API (such as endpoints for CRUD operations).
 Experiment with Docker Compose for managing multiple containers.
-Explore Docker networking and volume management.
+Explore Docker networking and volume management .
